@@ -8,3 +8,4 @@ Based on Raspberry Pi pico w
 - Optional backup power supply (18650 or similar)
 - Optional rain sensor
 - Optional humidity sensor
+- Optional sunlight sensor
